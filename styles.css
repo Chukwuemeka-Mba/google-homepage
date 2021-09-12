@@ -24,3 +24,9 @@
      height: 40px;
 
  }
+ .abc {
+     display: flex;
+     justify-content: center;
+     margin: 0 auto;
+     
+ }
